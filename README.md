@@ -8,7 +8,7 @@ Created with *create-react-app*. See the [full create-react-app guide](https://g
 Install
 ---
 
-`npm install`
+`yarn`
 
 
 
