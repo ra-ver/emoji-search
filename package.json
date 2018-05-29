@@ -14,7 +14,7 @@
     "react-dom": "^16.2.0"
   },
   "scripts": {
-    "netlify": "cd public && yarn && yarn build",
+    "compile": "cd public && yarn && yarn build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
